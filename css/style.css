@@ -39,3 +39,7 @@ table tr td button {
     cursor: pointer;
 }
 .completed{text-decoration: line-through;}
+
+.navbar_main{
+    background-color: red;
+}
