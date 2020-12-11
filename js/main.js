@@ -154,3 +154,5 @@ searchtextbox.addEventListener("input", function(){
         }
     })
 })
+
+console.log("salom")
